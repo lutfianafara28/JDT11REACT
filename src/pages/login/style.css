@@ -1,0 +1,7 @@
+.layout-auth-form-wrapper {
+  @apply w-[50vw] m-auto mt-24 p-12;
+}
+
+.layout-auth-title {
+  @apply mb-6 text-black font-[poppins] !important;
+}
